@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>built-with-Qt_Horizontal_Small.png</file>
+  </qresource>
+</RCC>
