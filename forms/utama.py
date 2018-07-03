@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file 'utama.ui'
 #
-# Created: Wed Jun 27 00:18:00 2018
+# Created: Tue Jul  3 23:26:45 2018
 #      by: pyside-uic 0.2.15 running on PySide 1.2.2
 #
 # WARNING! All changes made in this file will be lost!
@@ -62,6 +62,7 @@ class Ui_MainWindow(object):
         self.horizontalLayout.setObjectName("horizontalLayout")
         self.label_deskripsi = QtGui.QLabel(self.scrollAreaWidgetContents)
         self.label_deskripsi.setAlignment(QtCore.Qt.AlignLeading|QtCore.Qt.AlignLeft|QtCore.Qt.AlignTop)
+        self.label_deskripsi.setWordWrap(True)
         self.label_deskripsi.setObjectName("label_deskripsi")
         self.horizontalLayout.addWidget(self.label_deskripsi)
         self.scrollArea.setWidget(self.scrollAreaWidgetContents)
