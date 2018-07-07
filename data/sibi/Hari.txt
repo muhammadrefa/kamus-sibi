@@ -1,0 +1,7 @@
+Senin=Buat huruf S, lalu lambaikan
+Selasa=Buat huruf L (menandakan (hari ke-)2), lalu lambaikan
+Rabu=Buat huruf R, lalu lambaikan
+Kamis=Buat huruf K, lalu lambaikan
+Jumat=Buat huruf T, lalu lambaikan
+Sabtu=Buat huruf B, lalu lambaikan
+Minggu=Buat huruf M, lalu lambaikan
