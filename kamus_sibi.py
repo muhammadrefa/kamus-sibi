@@ -25,10 +25,12 @@ class firstGUI(QtGui.QMainWindow, Ui_MainWindow):
 
         kategori.append("Keluarga")
         self.butir.append(
-            ["Ayah", "Ibu", "Anak", "Adik", "Kakak", "Kakek", "Nenek", "Bibi (Tante)", "Paman (Om)", "Suami", "Istri",
-             "Cucu", "Bayi"])
+            ["Keluarga", "Ayah", "Ibu", "Anak", "Adik", "Kakak", "Kakek", "Nenek", "Bibi (Tante)", "Paman (Om)",
+              "Suami", "Istri", "Cucu", "Bayi"])
 
         kategori.append("Hari")
+        self.butir.append(["Hari", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"])
+
         kategori.append("Kata")
         kategori.append("Rasa")
         kategori.append("Sifat")
