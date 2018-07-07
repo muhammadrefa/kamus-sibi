@@ -1,5 +1,7 @@
 # Kamus SIBI
 
+![Tangkapan layar kamus sibi](kamus_sibi.png?raw=true "Tangkapan layar")
+
 ## Tentang Aplikasi
 Kamus SIBI adalah sebuah kamus yang menampilkan video panduan untuk melakukan bahasa isyarat.
 
