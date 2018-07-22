@@ -31,7 +31,9 @@ class firstGUI(QtGui.QMainWindow, Ui_MainWindow):
         kategori.append("Hari")
         self.butir.append(["Hari", "Senin", "Selasa", "Rabu", "Kamis", "Jumat", "Sabtu", "Minggu"])
 
-        kategori.append("Kata")
+        kategori.append("Kata Tanya")
+        self.butir.append(["Kata Tanya", "Apakah", "Bagaimana", "Dimana", "Kapan", "Mengapa", "Siapa"])
+
         kategori.append("Rasa")
         kategori.append("Sifat")
         kategori.append("Bulan")
