@@ -34,7 +34,10 @@ class firstGUI(QtGui.QMainWindow, Ui_MainWindow):
         kategori.append("Kata Tanya")
         self.butir.append(["Kata Tanya", "Apakah", "Bagaimana", "Dimana", "Kapan", "Mengapa", "Siapa"])
 
-        kategori.append("Rasa")
+        kategori.append("Perasaan")
+        self.butir.append(["Perasaan", "Bahagia", "Benci", "Canggung", "Cinta", "Gembira", "Marah", "Malu", "Sedih",
+                           "Senang", "Senyum", "Suka", "Takut", "Tertawa"])
+
         kategori.append("Sifat")
         kategori.append("Bulan")
         kategori.append("Profesi")

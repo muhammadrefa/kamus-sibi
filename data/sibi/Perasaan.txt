@@ -1,0 +1,8 @@
+Benci=Menyentil kedepan
+Canggung=Tangan kiri dan tangan kanan membuat huruf C yang saling berpunggungan, lalu tangan kanan digerakkan ke kanan dan tangan kiri digerakkan ke kiri secara bergantian
+Cinta=Membuat tanda silang dan ditempelkan di dada
+Gembira=Goyangkan kedua tangan dan buat wajah tersenyum
+Marah=Gerakaan tangan bagaikan membelah dada dan buat wajah marah
+Sedih=Menutup wajah menggunakan kedua tangan, lalu turunkan tangan dan buat wajah sedih
+Suka=Menyatukan jari jempol dan telunjuk dari arah dada kedepan
+Takut=Menyentuhkan kedua kelingking dengan menggerakkannya keatas dan bawah dengan berlawanan dan buat wajah takut
